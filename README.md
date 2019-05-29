@@ -10,3 +10,6 @@ Because the best way to understand something is to be able to explain it to a ch
 ### A simple controller
 
 ![simple controller](medias/controller.png)
+
+## HTTP
+![simple controller](medias/http.png)
