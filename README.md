@@ -5,6 +5,4 @@ SFAW (SymFony Another Way) : A new way to explain Symfony
 
 ### A simple controller
 
-![][1](medias/controller.png)
-
-[1]:	simple%20controller
+![simple controller](medias/controller.png)
