@@ -11,5 +11,9 @@ Because the best way to understand something is to be able to explain it to a ch
 
 ![simple controller](medias/controller.png)
 
+### How a Symfony Request works
+
+![simple controller](medias/sfBU.png)
+
 ## HTTP
 ![simple controller](medias/http.png)
