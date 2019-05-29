@@ -1,5 +1,5 @@
 # SFAW
-SFAW (SymFony Another Way) : A new way to explain Symfony
+SFAW (SymFony And web another Way) : A new way to explain the web
 
 ## Why this repo ? 
 
